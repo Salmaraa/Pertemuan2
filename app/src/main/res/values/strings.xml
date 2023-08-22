@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pertemuan2</string>
+    <string name="btn_test_1">Submit</string>
+    <string name="btn_test_2">Reset</string>
+</resources>
